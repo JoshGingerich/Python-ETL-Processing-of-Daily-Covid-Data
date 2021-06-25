@@ -9,5 +9,7 @@ Simple data visualization with AWS Quicksight:
 
 
 Improvements:
+
 The primary way I plan on improving this project is to implement IaC by using CloudFormation to coordinate all of these services together and deploy them at the same time.
+
 Reflecting on the architecture of this project, it is clear to me that while DynamoDB is very simple to use and low cost (which was certainly a consideration for this project), it should primarly be used as a transactional database rather than for data visualization. I realized this the hard way because there is no native DynamoDB support in Quicksight and I had to implement a time consuming workaround by importing the DynamoDB table as JSON to an S3 bucket first.
