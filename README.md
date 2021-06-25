@@ -2,7 +2,9 @@
 Event-Driven processing pipeline utilizing python and AWS services such as Lambda, CloudWatch events, SNS, DynamoDB, and Quicksight.
 
 Data was gathered from two sources:
+
 NYT: https://raw.githubusercontent.com/nytimes/covid-19-data/master/us.csv
+
 John Hopkins: https://raw.githubusercontent.com/datasets/covid-19/master/data/time-series-19-covid-combined.csv
 
 ![githubetlviz](https://user-images.githubusercontent.com/61246608/123479651-de9cf000-d5c6-11eb-9951-349c7db18f5a.jpg)
