@@ -7,7 +7,7 @@ NYT: https://raw.githubusercontent.com/nytimes/covid-19-data/master/us.csv
 
 John Hopkins: https://raw.githubusercontent.com/datasets/covid-19/master/data/time-series-19-covid-combined.csv
 
-![githubetlviz](https://user-images.githubusercontent.com/61246608/123479651-de9cf000-d5c6-11eb-9951-349c7db18f5a.jpg)
+![githubetlviz](https://user-images.githubusercontent.com/61246608/123716042-3e053500-d83f-11eb-9e9a-3198a3a77925.jpg)
 
 Simple data visualization with AWS Quicksight:
 
