@@ -9,7 +9,7 @@ John Hopkins: https://raw.githubusercontent.com/datasets/covid-19/master/data/ti
 
 ![githubetlviz](https://user-images.githubusercontent.com/61246608/123716042-3e053500-d83f-11eb-9e9a-3198a3a77925.jpg)
 
-Simple data visualization with AWS Quicksight:
+Simple data visualizations with AWS Quicksight:
 
 ![Screen Shot 2021-06-25 at 3 12 23 PM](https://user-images.githubusercontent.com/61246608/123480378-e4470580-d5c7-11eb-9c71-a850fc1d4686.png)
 
