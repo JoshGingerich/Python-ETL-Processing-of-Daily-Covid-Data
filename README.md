@@ -16,7 +16,7 @@ Simple data visualization with AWS Quicksight:
 
 Improvements:
 
-I implemented IaC by using CloudFormation to coordinate all of these services together and deploy them at the same time.
+I implemented IaC for this project by using CloudFormation to coordinate all of these services together and deploy them at the same time.
 
 Reflecting on the architecture of this project, it is clear to me that while DynamoDB is very simple to use and low cost (which was certainly a consideration for
 this project), it should primarly be used as a transactional database rather than for data visualization. I realized this the hard way because there is no native
