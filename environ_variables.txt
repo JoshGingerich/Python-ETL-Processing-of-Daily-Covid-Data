@@ -1,4 +1,0 @@
-dbtab	daily_covid
-jhurl	https://raw.githubusercontent.com/datasets/covid-19/master/data/time-series-19-covid-combined.csv
-nyurl	https://raw.githubusercontent.com/nytimes/covid-19-data/master/us.csv
-topic	arn:aws:sns:us-east-1:898970573875:covid_alert
