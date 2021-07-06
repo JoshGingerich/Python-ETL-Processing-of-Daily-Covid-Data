@@ -13,6 +13,9 @@ Simple data visualizations with AWS Quicksight:
 
 ![Screen Shot 2021-06-25 at 3 12 23 PM](https://user-images.githubusercontent.com/61246608/123480378-e4470580-d5c7-11eb-9c71-a850fc1d4686.png)
 
+At noon each day, the process will start with lambda being triggered to extract data from the data sources above. The function will then 
+transform the data types and combine the two tables on the U.S. data. Finally, the function will load them into a DynamoDB table. Every time 
+the function is called it will alert an SNS topic on how it manipulated the DynamoDB table or if it encountered an error doing so.
 
 Improvements:
 
